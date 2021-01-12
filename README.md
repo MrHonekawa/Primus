@@ -11,3 +11,5 @@
 ![LICENSE](https://img.shields.io/github/license/MrHonekawa/Primus?style=for-the-badge&logo=appveyor)
 ![Contributors](https://img.shields.io/github/contributors/MrHonekawa/Primus?style=for-the-badge&logo=appveyor)
 ![Repository Size](https://img.shields.io/github/repo-size/MrHonekawa/Primus?style=for-the-badge&logo=appveyor)</br>
+
+Hi, Primus is a bot made with love for everyone, accessed by ceg owner ddragonard.
